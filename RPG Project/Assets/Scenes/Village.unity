@@ -123,7 +123,7 @@ NavMeshSettings:
     preserveTilesOutsideBounds: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 23800000, guid: 95a8f44ef28997946a06a3ecc2264ab7, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: d0d28a526f08548d0986fd44f86efc94, type: 2}
 --- !u!1 &17629718 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 129968, guid: cb70b578d1fec1e4892024ee505eda1b,
@@ -13738,7 +13738,7 @@ PrefabInstance:
     - target: {fileID: 5263524460118599961, guid: 9065ec7e81ca8034a865d6fdd7906af9,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -570.7496
+      value: -522.2981
       objectReference: {fileID: 0}
     - target: {fileID: 5263917500653042737, guid: 9065ec7e81ca8034a865d6fdd7906af9,
         type: 3}
